@@ -1,7 +1,7 @@
 # SKILL: Continuous Integration - Jenkins 2 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * Build Tool - Maven 2 (Apprentice Developer) 
+  * Build Tool for your Stack, e.g. Maven 2 (Apprentice Developer) 
   * Software Craftsmanship - Working with CI
 
 ## [TOPICS]
